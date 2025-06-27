@@ -46,8 +46,8 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 ## 📷 预览
 
 <p style="display: flex; gap: 1rem">
-  <img src="./assets/preview_contextmenu.png" width="360" />
-  <img src="./assets/preview_about.png" width="360" />
+  <img src="./assets/preview_contextmenu.png" height="500" />
+  <img src="./assets/preview_about.png" height="500" />
 </p>
 
 ## ❤️ 赞助
@@ -57,6 +57,6 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 [![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/aaabingbing)
 
 <p style="display: flex; gap: 1rem">
-  <img src="./assets/alipay_collect_qrcode.jpg" width="360" />
-  <img src="./assets/wechat_collect_qrcode.png" width="360" />
+  <img src="./assets/alipay_collect_qrcode.jpg" height="500" />
+  <img src="./assets/wechat_collect_qrcode.png" height="500" />
 </p>

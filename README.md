@@ -9,27 +9,28 @@
 ## 👋 介绍
 
 > [!IMPORTANT]
-> AweBookmarks 保证不会在任何情况下收集用户信息。
+> AweBookmarks 保证不会在任何情况下收集用户信息
 
 > [!CAUTION]
-> 如果您正在安装此扩展程序，您的浏览器可能会收到某些警告提示。
+> 如果您正在安装此扩展程序，您的浏览器可能会收到某些警告提示
 >
-> 这是因为 AweBookmarks 使用了 [bookmarks 权限](https://developer.chrome.com/docs/extensions/reference/api/bookmarks)，该权限用于获取浏览器书签数据，从而通过此插件进行展示。
+> 这是因为 AweBookmarks 使用了 [bookmarks 权限](https://developer.chrome.com/docs/extensions/reference/api/bookmarks)，该权限用于获取浏览器书签数据，从而通过此插件进行展示
 >
-> **一些浏览器会提到最坏的情况和最高的风险，以确保您在安装后的安全。**
+> **一些浏览器会提到最坏的情况和最高的风险，以确保您在安装后的安全**
 
-AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书签关联检索（分词模糊检索并以目录树展示），并且在渲染层进行了一些优化，基于虚拟树方案保证书签数据过大时依然丝滑流畅。
+AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书签关联检索（分词模糊检索并以目录树展示），并且在渲染层进行了一些优化，基于虚拟树方案保证书签数据过大时依然丝滑流畅
 
 ## ⬇️ 安装
 
 > [!TIP]
-> 此插件暂未在任何扩展商店发布，请自行前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 安装。
+> 此插件暂未在任何扩展商店发布，请自行前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 安装
 >
-> 以下安装方式以 `Chrome 浏览器` 为例，其他浏览器安装方式基本上相同，若有差异请自行查阅。
+> 以下安装方式以 `Chrome 浏览器` 为例，其他浏览器安装方式基本上相同，若有差异请自行查阅
 
 1. 前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 下载最新的 `crx` 文件
 2. 在 `Chrome 浏览器` 中打开 `chrome://extensions` 并打开界面右上角 `开发者模式` 选项
 3. 只需将下载的 `crx` 文件拖放到浏览器中即可完成安装
+4. 若要设置插件快捷键，可在 `chrome://extensions/shortcuts` 中自行配置
 
 ## 🛠️ 使用
 

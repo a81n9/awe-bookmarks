@@ -9,7 +9,7 @@
 ## 👋 介绍
 
 > [!IMPORTANT]
-> AweBookmarks 保证不会在任何情况下收集用户信息
+> AweBookmarks 保证不会在任何情况下收集用户信息。
 
 > [!CAUTION]
 > 如果您正在安装此扩展程序，您的浏览器可能会收到某些警告提示。
@@ -23,7 +23,7 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 ## ⬇️ 安装
 
 > [!TIP]
-> 此插件暂未在任何扩展商店发布，请自行安装
+> 此插件暂未在任何扩展商店发布，请自行前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 安装。
 >
 > 以下安装方式以 `Chrome 浏览器` 为例，其他浏览器安装方式基本上相同，若有差异请自行查阅。
 

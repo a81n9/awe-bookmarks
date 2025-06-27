@@ -18,7 +18,7 @@
 >
 > **一些浏览器会提到最坏的情况和最高的风险，以确保您在安装后的安全**
 
-AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书签关联检索（分词模糊检索并以目录树展示），并且在渲染层进行了一些优化，基于虚拟树方案保证书签数据过大时依然丝滑流畅
+AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书签关联检索（分词模糊检索并以目录树展示），并且在渲染层进行了一些优化，基于虚拟树方案保证书签数据过大时依旧丝滑流畅
 
 ## ⬇️ 安装
 
@@ -30,17 +30,17 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 1. 前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 下载最新的 `crx` 文件
 2. 在 `Chrome 浏览器` 中打开 `chrome://extensions` 并打开界面右上角 `开发者模式` 选项
 3. 只需将下载的 `crx` 文件拖放到浏览器中即可完成安装
-4. 若要设置插件快捷键，可在 `chrome://extensions/shortcuts` 中自行配置
+4. 若提示 `未知来源` 相关警告导致无法启用扩展，解决方案可参考 [Chrome / Edge 禁止其他来源 crx 安装的解决方案](https://zhuanlan.zhihu.com/p/1921953956927604422)
+5. 若要设置插件快捷键，可在 `chrome://extensions/shortcuts` 中自行配置
 
 ## 🛠️ 使用
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 256 256"><path fill="currentColor" d="M144 16h-32a64.07 64.07 0 0 0-64 64v96a64.07 64.07 0 0 0 64 64h32a64.07 64.07 0 0 0 64-64V80a64.07 64.07 0 0 0-64-64m48 64v24h-64V32h16a48.05 48.05 0 0 1 48 48m-48 144h-32a48.05 48.05 0 0 1-48-48v-56h128v56a48.05 48.05 0 0 1-48 48" stroke-width="6.5" stroke="currentColor"/></svg> 左键单击对应书签可在活动标签页打开
+- 左键单击对应书签可在活动标签页打开
 
   - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 可在非活动标签页打开（用于同时打开多个书签）
   - 同时按下 <kbd>Shift</kbd> 可在新窗口中打开
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 256 256"><path fill="currentColor" d="M144 16h-32a64.07 64.07 0 0 0-64 64v96a64.07 64.07 0 0 0 64 64h32a64.07 64.07 0 0 0 64-64V80a64.07 64.07 0 0 0-64-64m-32 16h16v72H64V80a48.05 48.05 0 0 1 48-48m32 192h-32a48.05 48.05 0 0 1-48-48v-56h128v56a48.05 48.05 0 0 1-48 48" stroke-width="6.5" stroke="currentColor"/></svg> 右键单击展示对应操作菜单
-
+- 右键单击展示对应操作菜单
 - 检索框失焦状态下按下 <kbd>Tab</kbd> 可快速聚焦
 - <kbd>Esc</kbd> 可关闭任何弹出层，当没有弹出层时则关闭插件 `popup`
 

@@ -1,0 +1,8 @@
+{
+  "name": "awe-bookmarks",
+  "description": "AweBookmarks 重新定义书签管理",
+  "type": "module",
+  "scripts": {
+    "push": "node ./scripts/push"
+  }
+}

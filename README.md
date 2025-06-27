@@ -52,9 +52,13 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 
 ## ❤️ 赞助
 
+[PayPal](https://www.paypal.com/paypalme/aaabingbing)
+|
+[Buy Me a Coffee](https://buymeacoffee.com/aaabingbing)
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/aaabingbing)
 
-[![buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/aaabingbing)
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/aaabingbing)
 
 <p style="display: flex; gap: 1rem">
   <img src="./assets/alipay_collect_qrcode.jpg" height="500" />

@@ -22,8 +22,16 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 
 ## ⬇️ 安装
 
+### 在线安装
+
+- Edge: <https://microsoftedge.microsoft.com/addons/detail/pfjpmhmlddlkjndmlenppfcncjeaofel>
+- CrxSoSo: <https://www.crxsoso.com/addon/detail/pfjpmhmlddlkjndmlenppfcncjeaofel>
+- Chrome: _审核中..._
+
+### 手动安装
+
 > [!TIP]
-> 此插件暂未在任何扩展商店发布，请自行前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 安装
+> 请自行前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 安装
 >
 > 以下安装方式以 `Chrome 浏览器` 为例，其他浏览器安装方式基本上相同，若有差异请自行查阅
 
@@ -40,7 +48,7 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 
 - 左键单击对应书签可在活动标签页打开
 
-  - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 可在非活动标签页打开（用于同时打开多个书签）
+  - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 或 `鼠标中键` 点击可在非活动标签页打开（用于同时打开多个书签）
   - 同时按下 <kbd>Shift</kbd> 可在新窗口中打开
 
 - 右键单击展示对应操作菜单

@@ -31,11 +31,11 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 ### 手动安装
 
 > [!TIP]
-> 请自行前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 安装
+> 请自行前往 [CrxSoSo](https://www.crxsoso.com/addon/detail/pfjpmhmlddlkjndmlenppfcncjeaofel) 安装
 >
 > 以下安装方式以 `Chrome 浏览器` 为例，其他浏览器安装方式基本上相同，若有差异请自行查阅
 
-1. 前往 [Releases](https://github.com/a81n9/awe-bookmarks/releases) 下载最新的 `crx` 文件
+1. 前往 [CrxSoSo](https://www.crxsoso.com/addon/detail/pfjpmhmlddlkjndmlenppfcncjeaofel) 下载最新的 `crx` 文件
 2. 在 `Chrome 浏览器` 中打开 `chrome://extensions` 并打开界面右上角 `开发者模式` 选项
 3. 只需将下载的 `crx` 文件拖放到浏览器中即可完成安装
 4. 若提示 `未知来源` 相关警告导致无法启用扩展，解决方案可参考 [Chrome / Edge 禁止其他来源 crx 安装的解决方案](https://zhuanlan.zhihu.com/p/1921953956927604422)

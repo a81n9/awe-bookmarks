@@ -58,8 +58,8 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 ## 📷 预览
 
 <p style="display: flex; gap: 1rem">
-  <img src="./assets/preview_contextmenu.png" height="500" />
-  <img src="./assets/preview_about.png" height="500" />
+  <img src="./assets/preview_contextmenu.png" style="height: 500px" />
+  <img src="./assets/preview_about.png" style="height: 500px" />
 </p>
 
 ## ❤️ 赞助

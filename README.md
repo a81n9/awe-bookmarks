@@ -48,7 +48,7 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 
 - <kbd>LeftClick</kbd> 单击对应书签可在活动标签页打开
 
-  - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 或 `鼠标中键` 点击可在非活动标签页打开（用于同时打开多个书签）
+  - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 或 <kbd>MiddleClick</kbd> 点击可在非活动标签页打开（用于同时打开多个书签）
   - 同时按下 <kbd>Shift</kbd> 可在新窗口中打开
 
 - <kbd>RightClick</kbd> 可展示对应操作菜单
@@ -60,7 +60,7 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 - 使用 <kbd>ArrowDown</kbd> <kbd>ArrowUp</kbd> 选择对应节点
 - <kbd>Enter</kbd> 可代替 <kbd>LeftClick</kbd> 功能
 
-  - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 或 `鼠标中键` 点击可在非活动标签页打开（用于同时打开多个书签）
+  - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 或 <kbd>MiddleClick</kbd> 点击可在非活动标签页打开（用于同时打开多个书签）
   - 同时按下 <kbd>Shift</kbd> 可在新窗口中打开
 
 ## 📷 预览

@@ -22,13 +22,13 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 
 ## ⬇️ 安装
 
-### 在线安装
+### 🌐 在线安装
 
 - Edge: <https://microsoftedge.microsoft.com/addons/detail/pfjpmhmlddlkjndmlenppfcncjeaofel>
 - CrxSoSo: <https://www.crxsoso.com/addon/detail/pfjpmhmlddlkjndmlenppfcncjeaofel>
 - Chrome: _审核中..._
 
-### 手动安装
+### ⚙️ 手动安装
 
 > [!TIP]
 > 请自行前往 [CrxSoSo](https://www.crxsoso.com/addon/detail/pfjpmhmlddlkjndmlenppfcncjeaofel) 安装
@@ -46,14 +46,22 @@ AweBookmarks 是一个用于书签管理的浏览器扩展，主要专注于 书
 
 ## 🛠️ 使用
 
-- 左键单击对应书签可在活动标签页打开
+- <kbd>LeftClick</kbd> 单击对应书签可在活动标签页打开
 
   - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 或 `鼠标中键` 点击可在非活动标签页打开（用于同时打开多个书签）
   - 同时按下 <kbd>Shift</kbd> 可在新窗口中打开
 
-- 右键单击展示对应操作菜单
+- <kbd>RightClick</kbd> 可展示对应操作菜单
 - 检索框失焦状态下按下 <kbd>Tab</kbd> 可快速聚焦
 - <kbd>Esc</kbd> 可关闭任何弹出层，当没有弹出层时则关闭插件 `popup`
+
+### ⌨️ 键盘导航
+
+- 使用 <kbd>ArrowDown</kbd> <kbd>ArrowUp</kbd> 选择对应节点
+- <kbd>Enter</kbd> 可代替 <kbd>LeftClick</kbd> 功能
+
+  - 同时按下 <kbd>Ctrl</kbd> 或 <kbd>Cmd</kbd> 或 `鼠标中键` 点击可在非活动标签页打开（用于同时打开多个书签）
+  - 同时按下 <kbd>Shift</kbd> 可在新窗口中打开
 
 ## 📷 预览
 
